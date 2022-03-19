@@ -41,7 +41,7 @@ for candidate_name in candidate_votes:
     vote_percentage = float(votes) / float(total_votes) * 100
     # Print each candidate, their voter count, and percentage to the
     # terminal.
-    print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
+    # print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
     # Determine winning vote count, winning percentage, and candidate.
     if (votes > winning_count) and (vote_percentage > winning_percentage):
