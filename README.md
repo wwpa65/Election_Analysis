@@ -65,18 +65,29 @@ The Figure 1 below shows the results of the voting of the Colorado Congressional
 
 An election audit was performed using a python script to find a winner for a congressional disctrict of Colorado. There were three candidates: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane contested for the district. The winner of the election can be declared as Diana DeGette with 73.8% the total votes. The largest voter turnout was in the Denver county.
 
-Business proposal: This Python script was written for Election-Audit for the congressional district. This script can be extended to include Election-Audit for any elections in Colorado with additional modifications.
+Business proposal: This Python script was written for Election-Audit for the congressional district. This script can be extended to include Election-Audit for any elections with additional modifications.
 
 Example 1.
+To analyze the results of votes in favor of or against a local option (e.g., increase in sales tax or initiate a bond).
+
+Repolace variables related to candidates appropriate variables accordingly
+
+Example 2. 
+
+Replace variables related to county to districts (with appropriate variables) accordingly if results of distric votes.
+
+Example 3. 
+Sort results for candidates and counties to show the results in ranking order (highest to lowest in the list, descending Order)
+
+Example 4. 
+Adding additional visualization: Pie Chart, Bar graph)
+
+Example 5.
 Defining and including functions for each calculation and printing
 For example, calculation for county can be one function and calculating candidate results can be another function
 This way, the length of the code can be minimized.
 
-Example 2. 
-Sort results for candidates and counties to show the results in ranking order (highest to lowest in the list, descending Order)
 
-Example 3. 
-Adding additional visualization: Pie Chart, Bar graph)
 
 
 ***Additional information***
