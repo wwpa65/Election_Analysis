@@ -68,8 +68,11 @@ An election audit was performed using a python script to find a winner for a con
 Business proposal: This Python script was written for Election-Audit for the congressional district. This script can be extended to include Election-Audit for any elections in Colorado with additional modifications.
 
 Example 1.
+Adding additional visualization: Pie Chart, Bar graph)
 
-
+Example 2. 
+Defining and including functions for each calculation and printing
+For example, calculation for county can be one function and calculating candidate results can be another function 
 
 
 ***Additional information***
