@@ -69,11 +69,11 @@ Business proposal: This Python script was written for Election-Audit for the con
 
 Example 1.
 Defining and including functions for each calculation and printing
-For example, calculation for county can be one function and calculating candidate results can be another function 
+For example, calculation for county can be one function and calculating candidate results can be another function
+This way, the length of the code can be minimized.
 
 Example 2. 
-Sort results for candidates and counties in the descending order in order to print the results that show the winner (or higher voter turnout)
-on top of the tist.
+Sort results for candidates and counties to show the results in ranking order (highest to lowest in the list, descending Order)
 
 Example 3. 
 Adding additional visualization: Pie Chart, Bar graph)
