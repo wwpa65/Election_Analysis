@@ -53,10 +53,10 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
   
       (See Figure 1 or text file)
   
-  ![VElection Results](ElectionResults.png)
+  ![VElection Results](/resources/ElectionResults.png)
   
   ## Figure 1. Final vote results of Colorado Congressional Vote (screen shot of the terminal)
  
-  ### Link to the text file: [Election Results (text file)](election_analysis.txt)
+  ### Link to the text file: [Election Results (text file)](/resources/election_analysis.txt)
 
 - Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
