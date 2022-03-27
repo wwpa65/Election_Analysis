@@ -78,10 +78,14 @@ For example, calculation for county can be one function and calculating candidat
 ***Additional information***
 Some important parts of the code. 
 
- - File import Intializing variables:
+ - code for File import and Intializing variables:
  
 ![Election Results-code](/resources/Initializing.png)
+
+- code for counting votes:
       
 ![Election Results-code](/resources/Code_Counting_Votes.png)
 
+- code for printing results:
+- 
 ![Election Results](/resources/Code-Election-Results.png)
