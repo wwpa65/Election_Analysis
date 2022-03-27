@@ -67,19 +67,8 @@ An election audit was performed using a python script to find a winner for a con
 
 Business proposal: This Python script was written for Election-Audit for the congressional district. This script can be extended to include Election-Audit for any elections in Colorado with additional modifications.
 
-Example 1. 
+Example 1.
 
-Include other congressional districts for analysis
-   For this, a complete file for voting that include other congressional disctricts is needed. The congressional district needs to be included in the csv file.
-  Python code
-   a. Create a district list and district votes dictionary
-   c. Under district votes dictionary, embed county votes dictionaries
-   d. Iterate through the list of district using "for loop" to scan through the csv file, count votes, store results, and print results to the terminal as well as to a file.  
-  
-Example 2. 
-2. Modify the script to include a Python functions for iterating through each of the congressional district. 
-   a. create a Python function to read the csv and convert it into a list of dictionaries for districts
-   b. 
 
 ***Additional information***
 Some important parts of the code. 
