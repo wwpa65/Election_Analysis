@@ -12,10 +12,22 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
 
 ## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
+- File import Intializing variables:
+
+![Election Results-code](/resources/Initializing.png)
+
 - How many votes were cast in this congressional election?
     - There were 369,711 votes cast in the Colorado congressional election.
   
       (See Figure 1 or text file)
+      
+      Code used is shown below.
+      
+![Election Results-code](/resources/Code_Counting_Votes.png)
+
+![Election Results](/resources/Code-Election-Results.png.png)
+
+
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
   
@@ -26,6 +38,8 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
     - Arapahoe: 6.7% (24,801)
     
       (See Figure 1 or text file)
+      
+      
 
 - Which county had the largest number of votes?
 
@@ -53,7 +67,7 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
   
       (See Figure 1 or text file)
   
-  ![VElection Results](/resources/ElectionResults.png)
+  ![Election Results](/resources/ElectionResults.png)
   
   ## Figure 1. Final vote results of Colorado Congressional Vote (screen shot of the terminal)
  
