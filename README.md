@@ -69,6 +69,9 @@ Business proposal: This Python script was written for Election-Audit for the con
 
 Example 1.
 
+Group the votes received by each candidate based on county
+1. Modify code to embed counting candidate data under each county
+
 
 ***Additional information***
 Some important parts of the code. 
