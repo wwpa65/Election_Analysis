@@ -72,7 +72,7 @@ Example 1.
 Include other congressional districts for analysis
    For this, a complete file for voting that include other congressional disctricts is needed. The congressional district needs to be included in the csv file.
   Python code
-   a. Create a district list and district votes dictionary (create 
+   a. Create a district list and district votes dictionary
    c. Under district votes dictionary, embed county votes dictionaries
    d. Iterate through the list of district using "for loop" to scan through the csv file, count votes, store results, and print results to the terminal as well as to a file.  
   
