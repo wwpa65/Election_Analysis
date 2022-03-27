@@ -70,24 +70,19 @@ Business proposal: This Python script was written for Election-Audit for the con
 Example 1.
 To analyze the results of votes in favor of or against a local option (e.g., increase in sales tax or initiate a bond).
 
-Repolace variables related to candidates appropriate variables accordingly
+Replace variables related to candidates appropriate variables accordingly
 
 Example 2. 
 
-Replace variables related to county to districts (with appropriate variables) accordingly if results of distric votes.
+For a federal election, for example US Senate Race, if the Election Commission needs to know the voter turnout in each congressional district, replace variables related to county to districts (with appropriate variable names) accordingly. 
 
 Example 3. 
 Sort results for candidates and counties to show the results in ranking order (highest to lowest in the list, descending Order)
 
-Example 4. 
-Adding additional visualization: Pie Chart, Bar graph)
-
-Example 5.
+Example 4.
 Defining and including functions for each calculation and printing
 For example, calculation for county can be one function and calculating candidate results can be another function
 This way, the length of the code can be minimized.
-
-
 
 
 ***Additional information***
