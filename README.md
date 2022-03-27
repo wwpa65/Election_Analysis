@@ -53,7 +53,7 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
   
       (See Figure 1 or text file)
   
-  ![VElection Results](ElectionResults.png)
+  ![VElection Results](/resources/ElectionResults.png)
   
   ## Figure 1. Final vote results of Colorado Congressional Vote (screen shot of the terminal)
  
