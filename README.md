@@ -32,7 +32,10 @@ Election analysis:Module 3 Python
   Winning Vote Count: 272,892
   Winning Percentage: 73.8%
   
-  [Election Results](ElectionResults.png)
+  ![VElection Results](ElectionResults.png)
   
+  ## Figure 1. Final vote results of Colorado Congressional Vote (screen shot of the terminal)
+ 
+  ### Link to the text file: 
 
 - Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
