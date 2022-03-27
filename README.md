@@ -27,11 +27,11 @@ The Figure 1 below shows the results of the voting of the Colorado Congressional
       
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
   
-    - Jefferson: 10.5% (38,855)
+    - Jefferson: 38,855 (10.5%) 
   
-    - Denver: 82.8% (306,055)
+    - Denver: 306,055 (82.8%)
   
-    - Arapahoe: 6.7% (24,801)
+    - Arapahoe: 24,801 (6.7%)
     
       (See Figure 1 or text file)    
 
