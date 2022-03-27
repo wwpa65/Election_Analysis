@@ -25,9 +25,7 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
       
 ![Election Results-code](/resources/Code_Counting_Votes.png)
 
-![Election Results](/resources/Code-Election-Results.png.png)
-
-
+![Election Results](/resources/Code-Election-Results.png)
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
   
@@ -66,8 +64,10 @@ For this election audit, a python code (PyPoll_Challenge.py: [(Python Code)](PyP
     - Winning Percentage: 73.8%
   
       (See Figure 1 or text file)
+      
+      
   
-  ![Election Results](/resources/ElectionResults.png)
+  ![Winner](/resources/Winner.png)
   
   ## Figure 1. Final vote results of Colorado Congressional Vote (screen shot of the terminal)
  
